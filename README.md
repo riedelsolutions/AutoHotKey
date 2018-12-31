@@ -1,5 +1,5 @@
 # AutoHotKey
-AutoHotKey scripts I've written to simplify tasks
+AutoHotKey scripts I've written to simplify tasks (mostly simple shortcuts).
 
 
 [Audition](https://github.com/riedelsolutions/AutoHotKey/blob/master/audition.ahk)
