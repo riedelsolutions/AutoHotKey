@@ -13,3 +13,9 @@ Copies left channel to the right, not before deleting any mic noise from the rig
 
 
 Shortcut to make a to-do list in a second. Creates a blank subheader with a '/' as a placeholder for the date + a to-do block, to start typing the important tasks right away.
+
+
+[Containers](https://github.com/riedelsolutions/AutoHotKey/blob/master/containers.ahk)
+
+
+Shortcut to my most used container in Firefox, to avoid the needlessly nested UI.
